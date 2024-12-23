@@ -31,6 +31,5 @@ Welcome to my GitHub profile! I'm a **Reverse Engineer** with a passion for expl
 
 ## 🌟 Contact Me
 - **Email**: [doantien541@gmail.com](mailto:doantien541@gmail.com)
-- **GitHub**: [tien0246](https://github.com/tien0246)
 
 Thanks for visiting my profile! Don't forget to ⭐️ the repositories if you find them useful. 😊
