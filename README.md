@@ -4,13 +4,12 @@
 - Email: [doantien541@gmail.com](mailto:doantien541@gmail.com)
 - [Blog](https://tien0246.github.io/)
 
----
 
 ## What I do
 - Reverse engineering with a focus on **mobile binaries**.
 - Build practical tooling.
 - Enjoy CTF reverse engineering and real-world binary challenges.
----
+
 
 ## GitHub stats
 
