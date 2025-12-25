@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=64&duration=2000&pause=1000&center=true&vCenter=true&width=1080&height=70&lines=I'm+tien0246;Reverse+Engineer;Mobile+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=64&duration=2000&pause=1000&center=true&vCenter=true&width=1080&height=70&lines=I'm+tien0246;Reverse+Engineer;Mobile+Security)]()
 
 **Links**
 - Email: [doantien541@gmail.com](mailto:doantien541@gmail.com)
