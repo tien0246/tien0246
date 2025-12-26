@@ -3,7 +3,8 @@
 <div align="center">
   <a href="mailto:doantien541@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>&nbsp;
   <a href="https://tien0246.github.io/"><img src="https://img.shields.io/badge/-Blog-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" height="30"/></a>&nbsp;
-  <a href="https://github.com/tien0246"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
+  <a href="https://github.com/tien0246"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>&nbsp;
+  <a href="https://www.youtube.com/@tien0246"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/></a>
 </div>
 
 ## What I do
